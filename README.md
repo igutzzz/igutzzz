@@ -2,7 +2,7 @@
 
   
 
-I'm a Front End Developer from São Paulo - Brazil. I love develop creative and fun projects.
+I'm a Front End Developer from São Paulo - Brazil. I love working in creative and fun projects.
 
 Learning new things is my passion, and in my Front End Developer carrer, i'm constantly learning new skills and improving myself.
 
